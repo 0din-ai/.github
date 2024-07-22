@@ -1,5 +1,5 @@
 # 0din.ai
-The Zero Day Investigative Network (0din) is a GenAI bug bounty program by Mozilla that incentivizes the discovery and reporting of security vulnerabilities in large language models, attention-based systems and other generative models to enhance Internet and personal safety. Launched in [June of 2024](https://blog.mozilla.org/en/mozilla/keeping-genai-technologies-secure-is-a-shared-responsibility/) we are specifically incentivizing research across security boundaries that currently fall outside the scope other existing bounty programs.
+The Zero Day Investigative Network (0din) is a GenAI bug bounty program by Mozilla that incentivizes the discovery and reporting of security vulnerabilities in large language models, attention-based systems and other generative models to enhance Internet and personal safety. Launched in [June of 2024](https://blog.mozilla.org/en/mozilla/keeping-genai-technologies-secure-is-a-shared-responsibility/) we are specifically incentivizing research across security boundaries that fall outside the scope of currently existing bounty programs.
 
 Visit us on the web:
 * [https://0din.ai](https://0din.ai)
