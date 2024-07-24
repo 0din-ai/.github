@@ -11,7 +11,7 @@ Follow us on social media:
 Join the conversation on Discord:
 * [https://0din.ai/discord](https://0din.ai/discord)
 
-Contact us via email `0din<at>mozilla[dot]com` and please encrypt sensitive communications with our [PGP key](https://0din.ai/pgp).
+Contact us via email `0din <at> mozilla [dot] com` and please encrypt sensitive communications with our [PGP key](https://0din.ai/pgp).
 
 See our researcher terms, disclosure policy, and current bounty scopes:
 * [https://0din.ai/policy](https://0din.ai/policy)
